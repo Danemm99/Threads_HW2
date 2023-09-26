@@ -24,5 +24,5 @@ if __name__ == '__main__':
     num_threads = 4
 
     average_steps = compute_collatz_average(N, num_threads)
-    print(f"Середня кількість кроків для чисел від 1 до {N}: {average_steps}")
+    print(f"Середня кількість кроків для чисел від 1 до {N}: {average_steps}.")
 
